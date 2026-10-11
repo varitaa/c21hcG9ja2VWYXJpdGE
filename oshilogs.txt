@@ -1,0 +1,89 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VWYXJpdGE/c21hcG9ja2VWYXJpdGE/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Varita =====
+[1]Varita      |09:02:55 | 11-10-2026| login OK @varitayusrima | score=950 rank=6112
+[1]Varita      |09:02:55 | 11-10-2026| serverTime=2026-10-11T09:02:55.000Z local=2026-10-11T09:02:55.105Z
+--> [1]Varita menjalankan: Claim Daily
+[1]Varita      |09:02:57 | 11-10-2026| daily: sudah klaim (already=true) score=950
+--> [1]Varita menjalankan: Auto All Tasks (2 pending)
+[1]Varita      |09:03:03 | 11-10-2026| [1/2] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/varitayusrima/status/2109207828192282994
+[1]Varita      |09:03:03 | 11-10-2026| delay 10s...
+[1]Varita      |09:03:16 | 11-10-2026| [2/2] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/varitayusrima/status/2109207592029337430
+[1]Varita      |09:03:16 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Varita      |09:03:18 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/varitayusrima/status/2109207823927945993
+--> [1]Varita menjalankan: Watch Anime
+[1]Varita      |09:03:19 | 11-10-2026| watch: 3 video belum completed: oshi-first-journey,ep1,ep2
+[1]Varita      |09:03:19 | 11-10-2026| watch [1/3] farming oshi-first-journey...
+[1]Varita      |09:03:24 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Varita      |09:03:33 | 11-10-2026| watch oshi-first-journey: 8% (7.14/87.00s)
+[1]Varita      |09:03:40 | 11-10-2026| watch oshi-first-journey: 16% (14.09/87.00s)
+[1]Varita      |09:03:47 | 11-10-2026| watch oshi-first-journey: 23% (20.30/87.00s)
+[1]Varita      |09:03:54 | 11-10-2026| watch oshi-first-journey: 30% (26.32/87.00s)
+[1]Varita      |09:04:04 | 11-10-2026| watch oshi-first-journey: 37% (32.46/87.00s)
+[1]Varita      |09:04:11 | 11-10-2026| watch oshi-first-journey: 37% (32.46/87.00s)
+[1]Varita      |09:04:17 | 11-10-2026| watch oshi-first-journey: 43% (38.11/87.00s)
+[1]Varita      |09:04:24 | 11-10-2026| watch oshi-first-journey: 50% (44.24/87.00s)
+[1]Varita      |09:04:31 | 11-10-2026| watch oshi-first-journey: 57% (49.86/87.00s)
+[1]Varita      |09:04:38 | 11-10-2026| watch oshi-first-journey: 64% (56.44/87.00s)
+[1]Varita      |09:04:45 | 11-10-2026| watch oshi-first-journey: 71% (62.59/87.00s)
+[1]Varita      |09:04:52 | 11-10-2026| watch oshi-first-journey: 79% (69.00/87.00s)
+[1]Varita      |09:05:00 | 11-10-2026| watch oshi-first-journey: 86% (75.52/87.00s)
+[1]Varita      |09:05:11 | 11-10-2026| watch oshi-first-journey: 87% (75.79/87.00s)
+[1]Varita      |09:06:10 | 11-10-2026| watch oshi-first-journey: posisi mentok tanpa completed, stop
+[1]Varita      |09:06:15 | 11-10-2026| watch [2/3] farming ep1...
+[1]Varita      |09:06:20 | 11-10-2026| watch ep1: mulai dari 0 (record 343.8s diabaikan)
+[1]Varita      |09:06:22 | 11-10-2026| watch ep1: 89% (343.79/382.00s)
+[1]Varita      |09:06:29 | 11-10-2026| watch ep1: 89% (343.79/382.00s)
+[1]Varita      |09:06:38 | 11-10-2026| watch ep1: 89% (343.79/382.00s)
+[1]Varita      |09:06:44 | 11-10-2026| watch ep1: 89% (343.79/382.00s)
+[1]Varita      |09:06:50 | 11-10-2026| watch ep1: 89% (343.79/382.00s)
+[1]Varita      |09:06:57 | 11-10-2026| watch ep1: 89% (343.79/382.00s)
+[1]Varita      |09:07:03 | 11-10-2026| watch ep1: 90% (344.57/382.00s)
+[1]Varita      |09:07:03 | 11-10-2026| watch ep1: COMPLETED (344.57/382.00s)
+[1]Varita      |09:07:08 | 11-10-2026| watch [3/3] farming ep2...
+[1]Varita      |09:07:09 | 11-10-2026| watch ep2: mulai dari 0 (record 285.4s diabaikan)
+[1]Varita      |09:07:17 | 11-10-2026| watch ep2: 70% (285.35/406.00s)
+[1]Varita      |09:07:22 | 11-10-2026| watch ep2: heartbeat GAGAL http=503
+--> [1]Varita menjalankan: Read Article
+[1]Varita      |09:07:22 | 11-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Varita menjalankan: Quiz Anime
+[1]Varita      |09:07:22 | 11-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Varita menjalankan: Music Missions (realtime, bisa lama!)
+[1]Varita      |09:07:22 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Varita      |09:07:22 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Varita menjalankan: Claim Missions
+[1]Varita      |09:07:22 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Varita menjalankan: Check Eligibility
+
+--- eligibility [1]Varita ---
+  @varitayusrima | score=950 rank=6112
+  tasks    [###################-] 74/76
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+--> [1]Varita menjalankan: Read Manga
+[1]Varita      |09:07:22 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Varita menjalankan: Get Gift
+[1]Varita      |09:07:22 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Varita menjalankan: Setup Profile
+[1]Varita      |09:07:22 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Varita menjalankan: Bind Wallet
+[1]Varita      |09:07:22 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+== RINGKASAN ==
+- Varita: daily=already | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 1/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
