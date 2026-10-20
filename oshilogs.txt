@@ -12,86 +12,96 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Varita =====
-[1]Varita      |09:25:12 | 19-10-2026| login OK @varitayusrima | score=1430 rank=4831
-[1]Varita      |09:25:12 | 19-10-2026| serverTime=2026-10-19T09:25:12.000Z local=2026-10-19T09:25:12.726Z
+[1]Varita      |09:00:36 | 20-10-2026| login OK @varitayusrima | score=1540 rank=4548
+[1]Varita      |09:00:36 | 20-10-2026| serverTime=2026-10-20T09:00:35.000Z local=2026-10-20T09:00:36.054Z
 --> [1]Varita menjalankan: Claim Daily
-[1]Varita      |09:25:14 | 19-10-2026| daily: OK +10 poin score=1440
---> [1]Varita menjalankan: Auto All Tasks (10 pending)
-[1]Varita      |09:25:16 | 19-10-2026| [1/10] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/varitayusrima/status/2112112418634643385
-[1]Varita      |09:25:16 | 19-10-2026| delay 10s...
-[1]Varita      |09:25:29 | 19-10-2026| [2/10] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/varitayusrima/status/2112112470517189098
-[1]Varita      |09:25:29 | 19-10-2026| delay 10s...
-[1]Varita      |09:25:41 | 19-10-2026| [3/10] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/varitayusrima/status/2112112657414962189
-[1]Varita      |09:25:41 | 19-10-2026| delay 10s...
-[1]Varita      |09:25:55 | 19-10-2026| [4/10] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/varitayusrima/status/2112112404762498220
-[1]Varita      |09:25:55 | 19-10-2026| delay 10s...
-[1]Varita      |09:26:08 | 19-10-2026| [5/10] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/varitayusrima/status/2112112546568350971
-[1]Varita      |09:26:08 | 19-10-2026| delay 10s...
-[1]Varita      |09:26:22 | 19-10-2026| [6/10] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/varitayusrima/status/2112112791580074036
-[1]Varita      |09:26:22 | 19-10-2026| delay 10s...
-[1]Varita      |09:26:35 | 19-10-2026| [7/10] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/varitayusrima/status/2112112804919254010
-[1]Varita      |09:26:35 | 19-10-2026| delay 10s...
-[1]Varita      |09:26:48 | 19-10-2026| [8/10] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/varitayusrima/status/2112112721222930564
-[1]Varita      |09:26:48 | 19-10-2026| delay 10s...
-[1]Varita      |09:27:01 | 19-10-2026| [9/10] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/varitayusrima/status/2112112679504832712
-[1]Varita      |09:27:01 | 19-10-2026| delay 10s...
-[1]Varita      |09:27:13 | 19-10-2026| [10/10] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/varitayusrima/status/2112112940948513695
-[1]Varita      |09:27:13 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Varita      |09:27:16 | 19-10-2026| [1/1] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112092800401699 | proof=https://x.com/varitayusrima/status/2112112962898832582
+[1]Varita      |09:00:37 | 20-10-2026| daily: OK +10 poin score=1550
+--> [1]Varita menjalankan: Auto All Tasks (6 pending)
+[1]Varita      |09:00:39 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/varitayusrima/status/2112468524873275987
+[1]Varita      |09:00:39 | 20-10-2026| delay 10s...
+[1]Varita      |09:00:51 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/varitayusrima/status/2112468686506578407
+[1]Varita      |09:00:51 | 20-10-2026| delay 10s...
+[1]Varita      |09:01:03 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/varitayusrima/status/2112468758508838013
+[1]Varita      |09:01:03 | 20-10-2026| delay 10s...
+[1]Varita      |09:01:15 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/varitayusrima/status/2112468868231312253
+[1]Varita      |09:01:15 | 20-10-2026| delay 10s...
+[1]Varita      |09:01:27 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/varitayusrima/status/2112468678351925118
+[1]Varita      |09:01:27 | 20-10-2026| delay 10s...
+[1]Varita      |09:01:39 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/varitayusrima/status/2112469009628189262
+[1]Varita      |09:01:39 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Varita      |09:01:41 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/varitayusrima/status/2112468915311317052
 --> [1]Varita menjalankan: Watch Anime
-[1]Varita      |09:27:17 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Varita      |09:27:17 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Varita      |09:27:19 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Varita      |09:27:24 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Varita      |09:27:26 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Varita      |09:27:31 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Varita      |09:27:34 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Varita      |09:27:39 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Varita      |09:27:42 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Varita      |09:01:43 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Varita      |09:01:43 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Varita      |09:01:45 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Varita      |09:01:51 | 20-10-2026| watch oshi-captains-hat: 6% (5.85/92.00s)
+[1]Varita      |09:01:58 | 20-10-2026| watch oshi-captains-hat: 12% (11.50/92.00s)
+[1]Varita      |09:02:04 | 20-10-2026| watch oshi-captains-hat: 19% (17.49/92.00s)
+[1]Varita      |09:02:10 | 20-10-2026| watch oshi-captains-hat: 24% (22.92/92.00s)
+[1]Varita      |09:02:16 | 20-10-2026| watch oshi-captains-hat: 30% (28.32/92.00s)
+[1]Varita      |09:02:22 | 20-10-2026| watch oshi-captains-hat: 36% (33.75/92.00s)
+[1]Varita      |09:02:29 | 20-10-2026| watch oshi-captains-hat: 43% (39.58/92.00s)
+[1]Varita      |09:02:35 | 20-10-2026| watch oshi-captains-hat: 49% (45.34/92.00s)
+[1]Varita      |09:02:42 | 20-10-2026| watch oshi-captains-hat: 55% (51.15/92.00s)
+[1]Varita      |09:02:48 | 20-10-2026| watch oshi-captains-hat: 61% (56.74/92.00s)
+[1]Varita      |09:02:54 | 20-10-2026| watch oshi-captains-hat: 67% (62.23/92.00s)
+[1]Varita      |09:03:00 | 20-10-2026| watch oshi-captains-hat: 74% (68.24/92.00s)
+[1]Varita      |09:03:06 | 20-10-2026| watch oshi-captains-hat: 80% (73.70/92.00s)
+[1]Varita      |09:03:12 | 20-10-2026| watch oshi-captains-hat: 86% (79.18/92.00s)
+[1]Varita      |09:03:20 | 20-10-2026| watch oshi-captains-hat: 91% (84.52/92.00s)
+[1]Varita      |09:03:20 | 20-10-2026| watch oshi-captains-hat: COMPLETED (84.52/92.00s)
+[1]Varita      |09:03:25 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Varita      |09:03:27 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Varita      |09:03:33 | 20-10-2026| watch oshi-rainbow-star: 6% (5.31/86.00s)
+[1]Varita      |09:03:39 | 20-10-2026| watch oshi-rainbow-star: 12% (10.64/86.00s)
+[1]Varita      |09:03:45 | 20-10-2026| watch oshi-rainbow-star: 18% (16.34/86.00s)
+[1]Varita      |09:03:52 | 20-10-2026| watch oshi-rainbow-star: 25% (22.00/86.00s)
+[1]Varita      |09:03:59 | 20-10-2026| watch oshi-rainbow-star: 33% (28.39/86.00s)
+[1]Varita      |09:04:05 | 20-10-2026| watch oshi-rainbow-star: 39% (34.35/86.00s)
+[1]Varita      |09:04:11 | 20-10-2026| watch oshi-rainbow-star: 46% (39.82/86.00s)
+[1]Varita      |09:04:17 | 20-10-2026| watch oshi-rainbow-star: 52% (45.18/86.00s)
+[1]Varita      |09:04:23 | 20-10-2026| watch oshi-rainbow-star: 58% (50.67/86.00s)
+[1]Varita      |09:04:30 | 20-10-2026| watch oshi-rainbow-star: 65% (56.13/86.00s)
+[1]Varita      |09:04:36 | 20-10-2026| watch oshi-rainbow-star: 72% (62.02/86.00s)
+[1]Varita      |09:04:42 | 20-10-2026| watch oshi-rainbow-star: 78% (67.53/86.00s)
+[1]Varita      |09:04:48 | 20-10-2026| watch oshi-rainbow-star: 85% (73.26/86.00s)
+[1]Varita      |09:04:54 | 20-10-2026| watch oshi-rainbow-star: 91% (78.75/86.00s)
+[1]Varita      |09:04:54 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (78.75/86.00s)
+[1]Varita      |09:04:59 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Varita      |09:05:01 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Varita      |09:05:07 | 20-10-2026| watch oshi-rainbow-lighthouse: 5% (5.13/87.00s)
+[1]Varita      |09:05:19 | 20-10-2026| watch oshi-rainbow-lighthouse: heartbeat GAGAL http=503
+[1]Varita      |09:05:24 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Varita      |09:05:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: start GAGAL http=503
 --> [1]Varita menjalankan: Read Article
-[1]Varita      |09:27:44 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Varita      |09:27:44 | 19-10-2026| mint eligibility: {"userId":"2010511650642890752","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@varitayusrima","status":"submitted","revision":"9b5e4c28-8e1b-4040-b8dc-5dfadc47
-[1]Varita      |09:27:44 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Varita      |09:05:25 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Varita menjalankan: Quiz Anime
-[1]Varita      |09:27:45 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Varita      |09:27:45 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Varita      |09:27:45 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Varita      |09:27:45 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Varita      |09:27:45 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Varita      |09:27:45 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Varita      |09:05:25 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Varita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Varita      |09:27:48 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Varita      |09:27:49 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Varita      |09:27:49 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Varita      |09:27:49 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Varita      |09:05:25 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Varita      |09:05:26 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Varita menjalankan: Claim Missions
-[1]Varita      |09:27:50 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Varita      |09:27:50 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Varita      |09:27:50 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Varita      |09:05:26 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Varita menjalankan: Check Eligibility
 
 --- eligibility [1]Varita ---
-  @varitayusrima | score=1430 rank=4831
-  tasks    [##################--] 74/84
-  mission  music-listens-10:      claimed
-  mission  music-minutes-30:      claimed
-  mission  anime-completed-3:     claimed
-  quiz     [####################] 6/6
-  watch    [####################] 18/17
-  music    [####################] 11/11
-  artikel  [####################] 27/27
-  mint: requirementsMet=false mintOpen=false discord=true
+  @varitayusrima | score=1540 rank=4548
+  tasks    [##################--] 73/79
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 --> [1]Varita menjalankan: Read Manga
-[1]Varita      |09:27:56 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Varita      |09:05:27 | 20-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Varita menjalankan: Get Gift
-[1]Varita      |09:27:56 | 19-10-2026| gift: 0/4 belum diterima
+[1]Varita      |09:05:27 | 20-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Varita menjalankan: Setup Profile
-[1]Varita      |09:27:57 | 19-10-2026| profile: bio="https://x.com/varitayusrima" fav=amato rewardAt=1791695020
-[1]Varita      |09:27:57 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Varita      |09:05:27 | 20-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Varita menjalankan: Bind Wallet
-[1]Varita      |09:27:58 | 19-10-2026| wallet: sudah terikat 2tB2hVsHyR... (solana)
+[1]Varita      |09:05:27 | 20-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 == RINGKASAN ==
-- Varita: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Varita: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 2/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
