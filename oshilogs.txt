@@ -12,43 +12,41 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Varita =====
-[1]Varita      |09:22:11 | 07-11-2026| login OK @varitayusrima | score=2840 rank=2823
-[1]Varita      |09:22:11 | 07-11-2026| serverTime=2026-11-07T09:22:11.000Z local=2026-11-07T09:22:11.636Z
+[1]Varita      |08:50:22 | 08-11-2026| login OK @varitayusrima | score=2900 rank=2728
+[1]Varita      |08:50:22 | 08-11-2026| serverTime=2026-11-08T08:50:21.000Z local=2026-11-08T08:50:22.041Z
 --> [1]Varita menjalankan: Claim Daily
-[1]Varita      |09:22:13 | 07-11-2026| daily: OK +10 poin score=2850
---> [1]Varita menjalankan: Auto All Tasks (5 pending)
-[1]Varita      |09:22:14 | 07-11-2026| [1/5] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/varitayusrima/status/2118996920282735474
-[1]Varita      |09:22:14 | 07-11-2026| delay 10s...
-[1]Varita      |09:22:26 | 07-11-2026| [2/5] 3031f6f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/varitayusrima/status/2118997044340636851
-[1]Varita      |09:22:26 | 07-11-2026| delay 10s...
-[1]Varita      |09:22:38 | 07-11-2026| [3/5] 191dc55f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/varitayusrima/status/2118997143507810766
-[1]Varita      |09:22:38 | 07-11-2026| delay 10s...
-[1]Varita      |09:22:50 | 07-11-2026| [4/5] 3511b911 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/varitayusrima/status/2118997030552179615
-[1]Varita      |09:22:50 | 07-11-2026| delay 10s...
-[1]Varita      |09:23:01 | 07-11-2026| [5/5] 3c85a813 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/varitayusrima/status/2118997025311135978
-[1]Varita      |09:23:01 | 07-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Varita      |09:23:03 | 07-11-2026| [1/1] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118895980104015 | proof=https://x.com/varitayusrima/status/2118997090603749117
+[1]Varita      |08:50:24 | 08-11-2026| daily: OK +10 poin score=2910
+--> [1]Varita menjalankan: Auto All Tasks (4 pending)
+[1]Varita      |08:50:26 | 08-11-2026| [1/4] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/varitayusrima/status/2119351527269123595
+[1]Varita      |08:50:26 | 08-11-2026| delay 10s...
+[1]Varita      |08:50:37 | 08-11-2026| [2/4] e0619629 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/varitayusrima/status/2119351530169822654
+[1]Varita      |08:50:37 | 08-11-2026| delay 10s...
+[1]Varita      |08:50:50 | 08-11-2026| [3/4] 260028a2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/varitayusrima/status/2119351650918572314
+[1]Varita      |08:50:50 | 08-11-2026| delay 10s...
+[1]Varita      |08:51:02 | 08-11-2026| [4/4] ceb22d73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/varitayusrima/status/2119351592719647401
+[1]Varita      |08:51:02 | 08-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Varita      |08:51:04 | 08-11-2026| [1/1] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119241378140217 | proof=https://x.com/varitayusrima/status/2119351432313359373
 --> [1]Varita menjalankan: Watch Anime
-[1]Varita      |09:23:04 | 07-11-2026| watch: semua video sudah completed
+[1]Varita      |08:51:05 | 08-11-2026| watch: semua video sudah completed
 --> [1]Varita menjalankan: Read Article
-[1]Varita      |09:23:05 | 07-11-2026| news: 34/34 artikel selesai dibaca
-[1]Varita      |09:23:06 | 07-11-2026| mint eligibility: {"userId":"2010511650642890752","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@varitayusrima","status":"submitted","revision":"9b5e4c28-8e1b-4040-b8dc-5dfadc47
-[1]Varita      |09:23:06 | 07-11-2026| news: semua artikel sudah dibaca
+[1]Varita      |08:51:06 | 08-11-2026| news: 34/34 artikel selesai dibaca
+[1]Varita      |08:51:06 | 08-11-2026| mint eligibility: {"userId":"2010511650642890752","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@varitayusrima","status":"submitted","revision":"9b5e4c28-8e1b-4040-b8dc-5dfadc47
+[1]Varita      |08:51:06 | 08-11-2026| news: semua artikel sudah dibaca
 --> [1]Varita menjalankan: Quiz Anime
 --> [1]Varita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Varita      |09:23:08 | 07-11-2026| music: kedua misi sudah tercapai, stop
-[1]Varita      |09:23:09 | 07-11-2026| mission music-listens-10: sudah diklaim
-[1]Varita      |09:23:09 | 07-11-2026| mission music-minutes-30: sudah diklaim
-[1]Varita      |09:23:09 | 07-11-2026| mission anime-completed-3: sudah diklaim
+[1]Varita      |08:51:08 | 08-11-2026| music: kedua misi sudah tercapai, stop
+[1]Varita      |08:51:09 | 08-11-2026| mission music-listens-10: sudah diklaim
+[1]Varita      |08:51:09 | 08-11-2026| mission music-minutes-30: sudah diklaim
+[1]Varita      |08:51:09 | 08-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Varita menjalankan: Claim Missions
-[1]Varita      |09:23:09 | 07-11-2026| mission music-listens-10: sudah diklaim
-[1]Varita      |09:23:09 | 07-11-2026| mission music-minutes-30: sudah diklaim
-[1]Varita      |09:23:09 | 07-11-2026| mission anime-completed-3: sudah diklaim
+[1]Varita      |08:51:10 | 08-11-2026| mission music-listens-10: sudah diklaim
+[1]Varita      |08:51:10 | 08-11-2026| mission music-minutes-30: sudah diklaim
+[1]Varita      |08:51:10 | 08-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Varita menjalankan: Check Eligibility
 
 --- eligibility [1]Varita ---
-  @varitayusrima | score=2840 rank=2823
-  tasks    [###-----------------] 1/6
+  @varitayusrima | score=2900 rank=2728
+  tasks    [#######-------------] 2/6
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -59,17 +57,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Varita menjalankan: Read Manga
-[1]Varita      |09:23:13 | 07-11-2026| manga: 0/13 chapter belum completed
+[1]Varita      |08:51:13 | 08-11-2026| manga: 0/13 chapter belum completed
 --> [1]Varita menjalankan: Get Gift
-[1]Varita      |09:23:15 | 07-11-2026| gift: 3/9 belum diterima
-[1]Varita      |09:23:16 | 07-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Varita      |09:23:19 | 07-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Varita      |09:23:22 | 07-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Varita      |08:51:15 | 08-11-2026| gift: 3/9 belum diterima
+[1]Varita      |08:51:16 | 08-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Varita      |08:51:19 | 08-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Varita      |08:51:21 | 08-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Varita menjalankan: Setup Profile
-[1]Varita      |09:23:24 | 07-11-2026| profile: bio="https://x.com/varitayusrima" fav=amato rewardAt=1791695020
-[1]Varita      |09:23:24 | 07-11-2026| profile: bonus sudah diklaim, skip
+[1]Varita      |08:51:24 | 08-11-2026| profile: bio="https://x.com/varitayusrima" fav=amato rewardAt=1791695020
+[1]Varita      |08:51:24 | 08-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Varita menjalankan: Bind Wallet
-[1]Varita      |09:23:25 | 07-11-2026| wallet: sudah terikat 2tB2hVsHyR... (solana)
+[1]Varita      |08:51:26 | 08-11-2026| wallet: sudah terikat 2tB2hVsHyR... (solana)
 
 == RINGKASAN ==
-- Varita: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Varita: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
